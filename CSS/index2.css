@@ -1,0 +1,107 @@
+.obj{
+    border: 1px solid #f4f4f4;
+    margin-top: 120%;
+    width: 230px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 0%;
+    margin-right: 10%;
+    margin-top: 8%;
+    position: absolute;
+}
+
+.cua{
+    border: 1.5px solid #839192;
+    margin-top: 12%;
+    background-color: #839192;
+    width: 225px;
+}
+
+.cua3{
+    border: 1.5px solid  #839192;
+    margin-top: 173%;
+    background-color: #839192;
+    width: 225px;
+
+}
+
+.AP{
+    text-align: justify;
+    margin-top: 150%;
+    color: blue;
+    position: absolute;
+}
+.obj1{
+    border: 1px solid #f4f4f4;
+    margin-top: 11%;
+    width: 230px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 0%;
+    margin-right: 10%;
+    position: absolute;
+}
+
+.AP1{
+    text-align: justify;
+    margin-top: 100%;
+    color: blue;
+    position: absolute;
+    }
+
+    .AP2{
+        text-align: justify;
+        margin-top: 30%;
+        color: blue;
+        }
+       
+.cuar{
+    border: 1.5px solid  #839192;
+    margin-top: 120%;
+    background-color: #839192;
+    width: 225px;
+    position: absolute;
+
+}
+
+.obj3{
+    border: 1px solid #f4f4f4;
+    margin-top: 140%;
+    width: 230px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 0%;
+    margin-right: 10%;
+    position: absolute;
+}
+
+.Idi{
+
+    text-align: justify;
+    margin-top: 230%;
+    color: blue;
+    position: absolute;
+
+}
+
+.cuart{
+    border: 1.5px solid #839192;
+    margin-top: 250%;
+    background-color: #839192;
+    width: 225px;
+    position: absolute;
+
+}
+
+.es{
+    border: 1px solid #f4f4f4;
+    margin-top: 110%;
+    width: 230px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 0%;
+    margin-right: 10%;
+    position: absolute;
+    margin-top: 270%;
+
+}

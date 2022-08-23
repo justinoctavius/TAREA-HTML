@@ -1,0 +1,88 @@
+
+  @import url(./index2.css);
+
+  *{
+        padding: 0;
+        margin: 0;
+   }
+
+   body{
+       background-color: black;
+   }
+
+   .container{
+       margin-top: 1%;
+       margin-left: 15%;
+       position: fixed;
+       min-width: 1050px;
+       min-height: 700px;
+       background-color: rgb(176, 224, 230);
+       overflow: auto;
+   }
+
+   .one{
+      min-width: 400px;
+      min-height: 1700Px;
+      background-color: #f4f4f4 ;
+      position: absolute;
+   }
+   .two{
+       border-radius: 250px;
+       background-color: #839192;
+       width: 150px;
+       height: 150px;
+       margin-top: 3%;
+       margin-left: 9.5%;
+       position: absolute;
+   }
+   .tres{
+       margin-left: 42.5%;
+       position: absolute;
+       width: 550px;
+       height: 780px;
+       font-family: 'Times New Roman', Times, serif;
+       color: black;
+       text-align: center;
+       margin-top: 2%
+   }
+
+   .t{
+    background-color: white;
+    width: 550px;
+    height: 56px;
+    color: blue;
+   }
+
+   .cuadro{
+    border: 1.5px solid white;
+    background-color: white;
+    margin-top: 3%;
+   }
+
+   .LI{
+       text-align: justify;
+       margin-top: 4%;
+       margin-left: 15%;
+   }
+
+.N{
+    margin-top: 5%;
+    margin-left: 15%;
+    text-align: justify;
+    color: blue;
+}
+.LA{
+    text-align: justify;
+    margin-top: 4%;
+    margin-left: 15%;
+
+   }
+   .img-pelicula{
+    margin-top: 5%;
+    margin-left:  9.5%;
+}
+   .img{
+       margin-top: 10%;
+       margin-left: 20%;
+   }
+
